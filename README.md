@@ -15,3 +15,5 @@ The multiple-line chart below shows the differences in total fare by city type o
 ## Summary
 Given that the toal fare increases at the end of February for all cities, and in April for suburban cities, PyBer should investigate what causes these spikes. While total fare is increasing, it might be worth incentivizing more drivers to be available during this time, or incentivizing more passengers to use PyBer during periods of higher demand. 
 
+As mentioned earlier in this analysis, the availability of other forms of public transportation most likely has an inverse relationship with the average fare per ride/driver. And since most of the revenue comes from urban areas, it could be beneficial to determine which large cities do not have metro systems (i.e. Miami, FL). Since ride-sharing services would be important in these areas, PyBer should increase their influence in these areas by hiring more drivers and attracting more customers.
+
