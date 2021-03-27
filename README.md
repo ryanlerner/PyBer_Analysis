@@ -13,3 +13,5 @@ The multiple-line chart below shows the differences in total fare by city type o
 ![analysis/Fig8](analysis/Fig8.png)
 
 ## Summary
+Given that the toal fare increases at the end of February for all cities, and in April for suburban cities, PyBer should investigate what causes these spikes. While total fare is increasing, it might be worth incentivizing more drivers to be available during this time, or incentivizing more passengers to use PyBer during periods of higher demand. 
+
