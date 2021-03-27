@@ -17,3 +17,4 @@ Given that the toal fare increases at the end of February for all cities, and in
 
 As mentioned earlier in this analysis, the availability of other forms of public transportation most likely has an inverse relationship with the average fare per ride/driver. And since most of the revenue comes from urban areas, it could be beneficial to determine which large cities do not have metro systems (i.e. Miami, FL). Since ride-sharing services would be important in these areas, PyBer should increase their influence in these areas by hiring more drivers and attracting more customers.
 
+Finally, since the average fare per driver is higher in rural areas, and there are significantly fewer drivers, it could be advisable for the company to increase their drivers in rural areas in order to maximize profits. 
